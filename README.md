@@ -1,0 +1,1 @@
+Aotomatic-trash-can
